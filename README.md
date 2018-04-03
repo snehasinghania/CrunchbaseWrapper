@@ -23,7 +23,7 @@ There are five files:
 **Installation**
 
 The requirements for this project are:
-* requests >= 2.7.0
+* requests == 2.18.4
 * SQLAlchemy == 1.2.6
 * pynlp == 0.3.5
 * python >= 3.5
