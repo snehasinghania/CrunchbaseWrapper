@@ -11,7 +11,7 @@ setup(
     long_description=open('README.md').read(),
     python_requires='>=3.5',
     install_requires=[
-        "requests >= 2.7.0",
+        "requests == 2.18.4",
         "sqlalchemy == 1.2.6",
         "pynlp == 0.3.5",
     ],
