@@ -1,0 +1,28 @@
+Obtaining Data:
+https://data.crunchbase.com/docs/open-data-map
+https://data.crunchbase.com/docs/organization
+https://data.crunchbase.com/reference#odm-organizations
+
+
+Creating a menu in Python:
+https://stackoverflow.com/questions/19964603/creating-a-menu-in-python
+
+
+ORM usage:
+http://zetcode.com/db/sqlalchemy/orm/
+https://www.fullstackpython.com/object-relational-mappers-orms.html
+https://www.sqlalchemy.org/library.html#tutorials
+http://docs.sqlalchemy.org/en/latest/orm/tutorial.html
+
+
+Squid and Caching:
+http://etutorials.org/Server+Administration/Squid.+The+definitive+guide/Chapter+7.+Disk+Cache+Basics/7.1+The+cache_dir+Directive/
+https://docstore.mik.ua/squid/guide/initial/dirs.html
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching
+
+
+Packaging and setup.py:
+http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/creation.html
+http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/quickstart.html
+
+
