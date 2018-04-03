@@ -19,9 +19,22 @@ There are five files:
 * `re_demo.py` is an additional separate file for experimental purposes to show the functionality of the StanfordCoreNLP parser in sentence splitting and tokenization. This is used to obtain the first five sentences of a text body.
 
 **Installation**
+The requirements for this project are:
+* requests >= 2.7.0
+* sqlalchemy == 1.2.6
+* pynlp == 0.3.5
+* python >= 3.5
+
+A `setup.py` file is present which installs the required dependencies automatically on running:
+`python3 setup.py develop`
 
 **Usage**
-
-
+To test the project:
+* run `python3 crunchbase.py` which will provide a menu driven interface
+* choose option `1` to get data from crunchbase and write it into an SQLite database and JSON file
+* choose option `3` to retrieve the data based on a company name (ex: apple) which is also entered
+* choose option `1` again to show that data is not added if it already exists
+* choose option `4` to exit
+On exit, `crunchbase_json.db` and `crunchbase_data.json` would have been created.
 
 
