@@ -1,10 +1,10 @@
 **Project Name**
 
-`CrunchbaseScraper`
+`CrunchbaseWrapper`
 
 **Description**
 
-`CrunchbaseScraper` provides functionality to:
+`CrunchbaseWrapper` provides functionality to:
 * scrape data from [crunchbase.com](https://www.crunchbase.com/) using the `requests` library of `Python` along with the crunchbase api
 * store the data into an SQLite database using the `SQLAlchemy` library which provides ORM functionality to `Python`
 * store the data into a JSON file using the `json` library of `Python`
