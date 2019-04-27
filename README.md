@@ -22,12 +22,6 @@ There are five files:
 
 **Installation**
 
-The requirements for this project are:
-* requests == 2.18.4
-* SQLAlchemy == 1.2.6
-* pynlp == 0.3.5
-* python >= 3.5
-
 A `setup.py` file is present which installs the required dependencies automatically on running:
 `python3 setup.py develop`
 
